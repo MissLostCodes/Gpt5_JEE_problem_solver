@@ -1,0 +1,13 @@
+[project]
+name = "jee-solver"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.13"
+dependencies = [
+    "educhain>=0.3.10",
+    "langchain-community>=0.3.27",
+    "langchain-openai>=0.3.28",
+    "openai>=1.99.3",
+    "pillow>=11.3.0",
+    "streamlit>=1.48.0",
+]
