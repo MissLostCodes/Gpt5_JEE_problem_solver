@@ -45,9 +45,9 @@ def main():
                 <p>❤️ Built by <a href="https://buildfastwithai.com" target="_blank">Build Fast with AI</a></p>
             </div> """, unsafe_allow_html=True)
 
-        if not api_key:
-            st.warning("Please enter your OpenAI API Key in the sidebar.")
-            st.stop()
+    if not api_key:
+        st.warning("Please enter your OpenAI API Key in the sidebar.")
+        st.stop()
 
     # Initialize Educhain client
     client = initialize_educhain(api_key)
