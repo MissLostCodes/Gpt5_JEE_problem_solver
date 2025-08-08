@@ -1,5 +1,5 @@
 # 📚 JEE Advanced Problem Solver & Analyzer  
-A lightning-fast, AI-powered assistant that dissects **JEE Advanced** problems straight from an image, powered by **GPT-5 + Educhain**.
+A lightning-fast, AI-powered assistant that dissects **JEE Advanced** problems straight from an image, powered by **GPT-5 + [Educhain](https://github.com/satvik314/educhain)**.
 
 ![Python 3.13+](https://img.shields.io/badge/python-3.13+-blue.svg)
 ![Streamlit](https://img.shields.io/badge/Built%20with-Streamlit-FF4B4B.svg)
